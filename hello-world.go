@@ -1,4 +1,3 @@
-# add a new comment
 # add a second comment
 # add a third comment
 # add a fourth comment
