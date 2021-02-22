@@ -1,3 +1,4 @@
+# add a second line via command 
 # add a third comment
 # add a line to test merge comment
 # add a fourth comment
